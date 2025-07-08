@@ -20,7 +20,7 @@ Upload documents or paste links, and then ask questions about the content. Study
 
 > _This image shows what the project should look like._
 
-![System Architecture](Diagram.png)
+![System Architecture](Screenshot.png)
 
 ---
 
