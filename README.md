@@ -16,6 +16,13 @@ Upload documents or paste links, and then ask questions about the content. Study
 - 💬 Clean Streamlit UI with question answering + sources
 
 ---
+## DEMO
+
+> _This image shows what the project should look like._
+
+![System Architecture](Diagram.png)
+
+---
 
 ## 🎯 Ideal Use Cases
 
