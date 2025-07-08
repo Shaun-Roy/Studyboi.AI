@@ -44,7 +44,7 @@ Upload documents or paste links, and then ask questions about the content. Study
 
 > _This diagram shows how Studybot.AI works behind the scenes._
 
-![System Architecture](github.com/Shaun-Roy/Studyboi.AI/blob/main/Data%20Flow%20Diagram%20Whiteboard%20in%20Dark%20Yellow%20Light%20Yellow%20Black%20Monochromatic%20Style.png)
+![System Architecture](Diagram.png)
 
 ---
 
