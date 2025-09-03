@@ -2,7 +2,7 @@
 streamlit==1.29.0
 
 # PDF processing
-PyPDF2==3.1.0
+pypdf==3.15.1   
 
 # Web scraping
 requests==2.31.0
@@ -10,10 +10,10 @@ beautifulsoup4==4.12.2
 lxml==4.9.3
 
 # LLM / Embeddings
-openai==1.7.0             # if using OpenAI API
-mistral-sdk==0.1.0        # replace with actual if you use Mistral SDK
-tiktoken==0.4.0           # optional, for token counting
-transformers==4.34.0      # for Hugging Face models
+openai==1.7.0
+mistral-sdk==0.1.0
+tiktoken==0.4.0
+transformers==4.34.0
 
 # Vector database
 pinecone-client==2.2.0
