@@ -1,0 +1,23 @@
+# Core app
+streamlit==1.29.0
+
+# PDF processing
+PyPDF2==3.1.0
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# LLM / Embeddings
+openai==1.7.0             # if using OpenAI API
+mistral-sdk==0.1.0        # replace with actual if you use Mistral SDK
+tiktoken==0.4.0           # optional, for token counting
+transformers==4.34.0      # for Hugging Face models
+
+# Vector database
+pinecone-client==2.2.0
+
+# Data handling
+pandas==2.1.0
+numpy==1.26.0
