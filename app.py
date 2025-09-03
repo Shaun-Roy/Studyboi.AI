@@ -11,10 +11,9 @@ import requests
 from bs4 import BeautifulSoup
 
 # Load environment variables
-load_dotenv(dotenv_path="venv/.env")
-key = os.getenv("PINECONE_API_KEY")
-env = os.getenv("PINECONE_ENV")
-mistral_key = os.getenv("MISTRAL_API_KEY")
+key = st.secrets["PINECONE_API_KEY"]
+env = st.secrets["PINECONE_ENV"]
+mistral_key = st.secrets["MISTRAL_API_KEY"]
 
 # Initialize Pinecone
 index_name = "pdfchat-index"
